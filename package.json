@@ -1,0 +1,19 @@
+{
+  "name": "html_form_exercise",
+  "version": "1.0.0",
+  "description": "practice for building a form in html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoVasquez84/Form-HTML-Exercise.git"
+  },
+  "author": "Joanna Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoVasquez84/Form-HTML-Exercise/issues"
+  },
+  "homepage": "https://github.com/JoVasquez84/Form-HTML-Exercise#readme"
+}
